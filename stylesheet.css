@@ -1,0 +1,7 @@
+.slider{
+	background: url("images/acoustic.jpg");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
